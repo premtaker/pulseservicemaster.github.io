@@ -1,0 +1,39 @@
+### **css/style.css**
+height: 200px;
+object-fit: cover;
+}
+.product h3 {
+margin: 0.8rem 0;
+color: #1b5e20;
+}
+.product p {
+padding: 0 1rem;
+font-size: 0.95rem;
+color: #444;
+}
+.enquiry-btn {
+background-color: #2e7d32;
+color: white;
+border: none;
+padding: 0.8rem 1.2rem;
+border-radius: 5px;
+margin-bottom: 1rem;
+cursor: pointer;
+transition: background-color 0.3s;
+}
+.enquiry-btn:hover {
+background-color: #1b5e20;
+}
+.footer {
+background-color: #1b5e20;
+color: white;
+text-align: center;
+padding: 1rem;
+margin-top: 2rem;
+}
+```
+
+
+
+
+
